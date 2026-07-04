@@ -69,7 +69,7 @@ Accuracy = 85.83%
 - Jupyter Notebook
 
 ## Author
-Shaik Bushra Faizi
+Pavan Kumar
 
 ## Internship
 Skill Nexis AI/ML Internship
